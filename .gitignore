@@ -1,5 +1,7 @@
 HELP.md
 target/
 
+*.class
+
 ### VS Code ###
 .vscode/
